@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\bin\Debug\PersonelTakipSistemi.exe.config
+C:\Users\buse\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\bin\Debug\PersonelTakipSistemi.exe
+C:\Users\buse\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\bin\Debug\PersonelTakipSistemi.pdb
+C:\Users\buse\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.exe
+C:\Users\buse\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.pdb
