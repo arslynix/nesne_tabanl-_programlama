@@ -1,0 +1,39 @@
+namespace ConsoleApp29
+{
+    internal class Program
+    {
+       
+        static void Main(string[] args)
+        {
+            Thread thread1 = new Thread(veriIsle);
+            Thread thread2 = new Thread(epostaGonder);
+
+            thread1.Start();
+            thread2.Start();
+
+            thread1.Join();
+            thread2.Join();
+
+            Console.WriteLine("İşlem tamamlandı");
+            Console.ReadLine();
+
+        }
+        static void veriIsle()
+        {
+            for (int i = 0; i <= 5; i++)
+            {
+                Console.WriteLine($"Veri işlemenin {i}. adımı");
+                Thread.Sleep(1000);
+            }
+        }
+        static void epostaGonder()
+        {
+            for (int i = 0; i <= 3; i++)
+            {
+                Console.WriteLine($"E-posta göndermenin {i}. adımı");
+                Thread.Sleep(1500);
+            }
+        }
+    }
+    
+}
