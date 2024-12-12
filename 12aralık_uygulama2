@@ -1,0 +1,58 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.IO;
+using System.Threading;
+using System.Text;
+using System.Threading.Tasks;
+using System.Diagnostics;
+
+namespace ConsoleApp29
+{
+    internal class Program
+    {
+       
+        static void Main(string[] args)
+        {
+            Thread gorev1 = new Thread(CpuKullaniminiKontrolEt);
+            gorev1.Name = "Cpu kullanımı Kontrolü";
+
+            Thread gorev2 = new Thread(RamKullaniminiKontrolEt);
+            gorev2.Name = "Ram Kullanımı Kontrol";
+
+            Console.WriteLine("İşlemler başlatılıyor...");
+
+            gorev1.Start();
+            gorev2.Start();
+
+            gorev1.Join();
+            gorev2.Join();
+
+            Console.WriteLine("Tüm işlemler tamamlandı.");
+            Console.ReadLine();
+
+        }
+        static void CpuKullaniminiKontrolEt()
+        {
+            var cpuCounter = new PerformanceCounter("Processor", "%Processor Time", "_Total");
+            for (int i = 0; i <= 3; i++)
+            {
+                float cpuUsage = cpuCounter.NextValue();
+                Console.WriteLine($"{Thread.CurrentThread.Name} CPU kullanımı: {cpuUsage}%");
+                Thread.Sleep(200);
+            }
+            Console.WriteLine($"{Thread.CurrentThread.Name} tamamlandı.");
+        }
+        static void RamKullaniminiKontrolEt()
+        {
+            for (int i = 0; i <= 3; i++)
+            {
+                float availableMemory = ramCounter.NextValue();
+                Console.WriteLine($"{Thread.CurrentThread.Name} kullanılabilir RAM: {availableMemory} MB");
+            Thread.Sleep(3000);
+            }
+        Console.WriteLine($"{Thread.CurrentThread.Name} tamamlandı");
+        }
+    }
+    
+} (hata veriyor)
