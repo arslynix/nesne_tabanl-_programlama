@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\EndsWithÇalışması\EndsWithÇalışması\bin\Debug\EndsWithÇalışması.exe.config
+C:\Users\buse\source\repos\EndsWithÇalışması\EndsWithÇalışması\bin\Debug\EndsWithÇalışması.exe
+C:\Users\buse\source\repos\EndsWithÇalışması\EndsWithÇalışması\bin\Debug\EndsWithÇalışması.pdb
+C:\Users\buse\source\repos\EndsWithÇalışması\EndsWithÇalışması\obj\Debug\EndsWithÇalışması.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\EndsWithÇalışması\EndsWithÇalışması\obj\Debug\EndsWithÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\EndsWithÇalışması\EndsWithÇalışması\obj\Debug\EndsWithÇalışması.exe
+C:\Users\buse\source\repos\EndsWithÇalışması\EndsWithÇalışması\obj\Debug\EndsWithÇalışması.pdb
