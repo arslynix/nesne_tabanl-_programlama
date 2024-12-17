@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\YasHesaplamaUygulaması\YasHesaplamaUygulaması\bin\Debug\YasHesaplamaUygulaması.exe.config
+C:\Users\buse\source\repos\YasHesaplamaUygulaması\YasHesaplamaUygulaması\bin\Debug\YasHesaplamaUygulaması.exe
+C:\Users\buse\source\repos\YasHesaplamaUygulaması\YasHesaplamaUygulaması\bin\Debug\YasHesaplamaUygulaması.pdb
+C:\Users\buse\source\repos\YasHesaplamaUygulaması\YasHesaplamaUygulaması\obj\Debug\YasHesaplamaUygulaması.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\YasHesaplamaUygulaması\YasHesaplamaUygulaması\obj\Debug\YasHesaplamaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\YasHesaplamaUygulaması\YasHesaplamaUygulaması\obj\Debug\YasHesaplamaUygulaması.exe
+C:\Users\buse\source\repos\YasHesaplamaUygulaması\YasHesaplamaUygulaması\obj\Debug\YasHesaplamaUygulaması.pdb
