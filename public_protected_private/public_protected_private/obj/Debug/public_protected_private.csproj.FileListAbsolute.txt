@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\public_protected_private\public_protected_private\bin\Debug\public_protected_private.exe.config
+C:\Users\buse\source\repos\public_protected_private\public_protected_private\bin\Debug\public_protected_private.exe
+C:\Users\buse\source\repos\public_protected_private\public_protected_private\bin\Debug\public_protected_private.pdb
+C:\Users\buse\source\repos\public_protected_private\public_protected_private\obj\Debug\public_protected_private.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\public_protected_private\public_protected_private\obj\Debug\public_protected_private.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\public_protected_private\public_protected_private\obj\Debug\public_protected_private.exe
+C:\Users\buse\source\repos\public_protected_private\public_protected_private\obj\Debug\public_protected_private.pdb
