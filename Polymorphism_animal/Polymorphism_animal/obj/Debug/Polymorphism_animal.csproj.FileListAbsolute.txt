@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\Polymorphism_animal\Polymorphism_animal\obj\Debug\Polymorphism_animal.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\Polymorphism_animal\Polymorphism_animal\obj\Debug\Polymorphism_animal.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\Polymorphism_animal\Polymorphism_animal\bin\Debug\Polymorphism_animal.exe.config
+C:\Users\buse\source\repos\Polymorphism_animal\Polymorphism_animal\bin\Debug\Polymorphism_animal.exe
+C:\Users\buse\source\repos\Polymorphism_animal\Polymorphism_animal\bin\Debug\Polymorphism_animal.pdb
+C:\Users\buse\source\repos\Polymorphism_animal\Polymorphism_animal\obj\Debug\Polymorphism_animal.exe
+C:\Users\buse\source\repos\Polymorphism_animal\Polymorphism_animal\obj\Debug\Polymorphism_animal.pdb
