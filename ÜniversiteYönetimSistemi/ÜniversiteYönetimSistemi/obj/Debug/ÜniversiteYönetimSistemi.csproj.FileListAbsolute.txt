@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\ÜniversiteYönetimSistemi\ÜniversiteYönetimSistemi\bin\Debug\ÜniversiteYönetimSistemi.exe.config
+C:\Users\buse\source\repos\ÜniversiteYönetimSistemi\ÜniversiteYönetimSistemi\bin\Debug\ÜniversiteYönetimSistemi.exe
+C:\Users\buse\source\repos\ÜniversiteYönetimSistemi\ÜniversiteYönetimSistemi\bin\Debug\ÜniversiteYönetimSistemi.pdb
+C:\Users\buse\source\repos\ÜniversiteYönetimSistemi\ÜniversiteYönetimSistemi\obj\Debug\ÜniversiteYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\ÜniversiteYönetimSistemi\ÜniversiteYönetimSistemi\obj\Debug\ÜniversiteYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\ÜniversiteYönetimSistemi\ÜniversiteYönetimSistemi\obj\Debug\ÜniversiteYönetimSistemi.exe
+C:\Users\buse\source\repos\ÜniversiteYönetimSistemi\ÜniversiteYönetimSistemi\obj\Debug\ÜniversiteYönetimSistemi.pdb
