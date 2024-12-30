@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\Composition_Vehicle\Composition_Vehicle\bin\Debug\Composition_Vehicle.exe.config
+C:\Users\buse\source\repos\Composition_Vehicle\Composition_Vehicle\bin\Debug\Composition_Vehicle.exe
+C:\Users\buse\source\repos\Composition_Vehicle\Composition_Vehicle\bin\Debug\Composition_Vehicle.pdb
+C:\Users\buse\source\repos\Composition_Vehicle\Composition_Vehicle\obj\Debug\Composition_Vehicle.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\Composition_Vehicle\Composition_Vehicle\obj\Debug\Composition_Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\Composition_Vehicle\Composition_Vehicle\obj\Debug\Composition_Vehicle.exe
+C:\Users\buse\source\repos\Composition_Vehicle\Composition_Vehicle\obj\Debug\Composition_Vehicle.pdb
