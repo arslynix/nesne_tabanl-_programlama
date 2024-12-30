@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\Polymorphism_ParentChild\Polymorphism_ParentChild\bin\Debug\Polymorphism_ParentChild.exe.config
+C:\Users\buse\source\repos\Polymorphism_ParentChild\Polymorphism_ParentChild\bin\Debug\Polymorphism_ParentChild.exe
+C:\Users\buse\source\repos\Polymorphism_ParentChild\Polymorphism_ParentChild\bin\Debug\Polymorphism_ParentChild.pdb
+C:\Users\buse\source\repos\Polymorphism_ParentChild\Polymorphism_ParentChild\obj\Debug\Polymorphism_ParentChild.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\Polymorphism_ParentChild\Polymorphism_ParentChild\obj\Debug\Polymorphism_ParentChild.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\Polymorphism_ParentChild\Polymorphism_ParentChild\obj\Debug\Polymorphism_ParentChild.exe
+C:\Users\buse\source\repos\Polymorphism_ParentChild\Polymorphism_ParentChild\obj\Debug\Polymorphism_ParentChild.pdb
