@@ -1,0 +1,7 @@
+C:\Users\buse\source\repos\Polymorphism_ISpeakable\Polymorphism_ISpeakable\bin\Debug\Polymorphism_ISpeakable.exe.config
+C:\Users\buse\source\repos\Polymorphism_ISpeakable\Polymorphism_ISpeakable\bin\Debug\Polymorphism_ISpeakable.exe
+C:\Users\buse\source\repos\Polymorphism_ISpeakable\Polymorphism_ISpeakable\bin\Debug\Polymorphism_ISpeakable.pdb
+C:\Users\buse\source\repos\Polymorphism_ISpeakable\Polymorphism_ISpeakable\obj\Debug\Polymorphism_ISpeakable.csproj.AssemblyReference.cache
+C:\Users\buse\source\repos\Polymorphism_ISpeakable\Polymorphism_ISpeakable\obj\Debug\Polymorphism_ISpeakable.csproj.CoreCompileInputs.cache
+C:\Users\buse\source\repos\Polymorphism_ISpeakable\Polymorphism_ISpeakable\obj\Debug\Polymorphism_ISpeakable.exe
+C:\Users\buse\source\repos\Polymorphism_ISpeakable\Polymorphism_ISpeakable\obj\Debug\Polymorphism_ISpeakable.pdb
